@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Naim Mhedhbi a Tunisian self-motivated, result-oriented Data Scientist who is willing to go beyond any project with 3 years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Passionate about data engineering and big data technologies.
+I am Naim Mhedhbi a Tunisian self-motivated, result-oriented Data Scientist who is willing to go beyond any project with 5 years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Passionate about data engineering and big data technologies.
 
 ![image](https://user-images.githubusercontent.com/56754920/136449355-c3c16169-8f05-4ce6-a9e3-df2b5fdbd5d8.png)
 <!-- wp:paragraph -->
